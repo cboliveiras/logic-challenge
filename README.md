@@ -1,6 +1,6 @@
 # logic-challenge
 
-To check the result with the provided expression, just copy the method on your terminal:
+To check the result with the provided expression, just copy the method on your terminal (irb):
 
 ```
   def extract_diamonds_from_expression(expression)
